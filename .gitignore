@@ -28,3 +28,4 @@ dist/
 # OS Files (Mac & Windows)
 Thumbs.db
 .DS_Store
+.vercel
